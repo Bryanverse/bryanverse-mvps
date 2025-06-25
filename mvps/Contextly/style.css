@@ -1,0 +1,22 @@
+
+body {
+  font-family: Inter, sans-serif, sans-serif;
+  background-color: #ffffff;
+  color: #333;
+  margin: 40px;
+}
+.logo {
+  width: 180px;
+  margin-bottom: 20px;
+}
+.container {
+  max-width: 700px;
+  margin: auto;
+  padding: 20px;
+  border: 2px solid #5C6BC0;
+  border-radius: 8px;
+  text-align: center;
+}
+h1 {
+  color: #5C6BC0;
+}
