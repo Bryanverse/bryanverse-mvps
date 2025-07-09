@@ -1,0 +1,59 @@
+
+body {
+  font-family: Inter, sans-serif;
+  background-color: #ffffff;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+.wrapper {
+  max-width: 700px;
+  margin: auto;
+  padding: 30px 20px;
+}
+.logo {
+  max-width: 150px;
+  margin: 0 auto 20px;
+  display: block;
+}
+.hero {
+  text-align: center;
+  padding: 40px 0;
+}
+.hero h1 {
+  font-size: 2.2rem;
+  color: #4C7EFF;
+}
+.subtext {
+  font-size: 1.1rem;
+  color: #444;
+}
+.about {
+  margin-top: 40px;
+}
+.about h2 {
+  color: #4C7EFF;
+  margin-bottom: 10px;
+}
+.cta {
+  text-align: center;
+  margin: 40px 0;
+}
+.cta-btn {
+  background: #4C7EFF;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 5px;
+  font-weight: bold;
+  text-decoration: none;
+  transition: background 0.3s ease;
+}
+.cta-btn:hover {
+  background: #333;
+}
+footer {
+  text-align: center;
+  margin-top: 60px;
+  font-size: 0.9rem;
+  color: #999;
+}
